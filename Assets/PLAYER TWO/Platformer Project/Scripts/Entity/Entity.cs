@@ -15,4 +15,5 @@ public abstract class Entity<T> : EntityBase where T : EntityBase
     public int d;
     public int e;
     public int f;
+    public int g;
 }
